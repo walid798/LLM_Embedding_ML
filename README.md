@@ -6,6 +6,15 @@ This repository demonstrates how to integrate large language model (LLM) embeddi
 
 We evaluated multiple SentenceTransformer models on a customer support classification dataset. Each model's embeddings were combined with structured features and passed to a Random Forest classifier.
 
+- all-MiniLM-L6-v2
+
+- paraphrase-MiniLM-L12-v2
+
+- multi-qa-MiniLM-L6-cos-v1
+
+- BAAI/bge-small-en-v1.5
+
+- sentence-t5-base
 
 ## Project Structure
 
