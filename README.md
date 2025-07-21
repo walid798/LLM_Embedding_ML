@@ -1,6 +1,4 @@
-# LLM_Embedding_ML
-
-# LLM Embedding + Scikit-learn Hybrid Classifier
+# LLM_Embedding_ML Hybrid Classifier
 
 This repository demonstrates how to integrate large language model (LLM) embeddings with traditional machine learning models using Scikit-learn. It showcases a feature engineering pipeline that combines semantically rich text embeddings with structured data to train classifiers on text-heavy tasks.
 
